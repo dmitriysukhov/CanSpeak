@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dmitrysukhov</groupId>
 	<artifactId>canspeak</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>canspeak</name>
 	<description>Project for learning English</description>
 	<properties>
@@ -35,6 +35,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
 		</plugins>
 	</build>
 
